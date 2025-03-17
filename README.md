@@ -19,13 +19,13 @@ Estamos desenvolvendo softwares e APIs que tornam a vida mais fácil – desde a
 ---
 
 ### Conecte-se Conosco
-- 📧 **Email**: maxsolutionshub@gmail.com.com  
+- 📧 **Email**: maxsolutionshub@gmail.com
 - 🌐 **Site**: [maxsolutionshub.com](#) (em breve)    
 - 💬 **Ideias?**: Fale com a gente – adoramos ouvir o que você precisa!
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Made%20in-Brazil-green" alt="Made in Brazil"/> 
   <img src="https://img.shields.io/badge/Simplicidade-blue" alt="Simplicidade"/>
 </div>
