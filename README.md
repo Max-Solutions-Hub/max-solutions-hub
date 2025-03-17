@@ -1,5 +1,5 @@
 <div align="center">
-<!--   <img src="https://via.placeholder.com/150.png?text=Max+Solutions+Hub" alt="Max Solutions Hub Logo" width="150"/> -->
+  <img src="https://via.placeholder.com/150.png?text=Max+Solutions+Hub" alt="Max Solutions Hub Logo" width="150"/>
   <h1>Max Solutions Hub</h1>
   <p>Soluções fáceis para um mundo complexo</p>
 </div>
