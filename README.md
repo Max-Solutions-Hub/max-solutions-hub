@@ -30,5 +30,5 @@ Estamos desenvolvendo softwares e APIs que tornam a vida mais fácil – desde a
   <img src="https://img.shields.io/badge/Simplicidade-blue" alt="Simplicidade"/>
 </div>
 
-</br>
+<br />
 > "Tecnologia simples para todos os dias" – Max Solutions Hub
